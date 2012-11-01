@@ -1,0 +1,7 @@
+G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\bin\MvcApplication8.dll
+G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\bin\MvcApplication8.pdb
+G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\bin\EntityFramework.dll
+G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\bin\EntityFramework.xml
+G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\obj\Debug\ResolveAssemblyReference.cache
+G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\obj\Debug\MvcApplication8.dll
+G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\obj\Debug\MvcApplication8.pdb
