@@ -5,3 +5,11 @@ G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\bin\Enti
 G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\obj\Debug\ResolveAssemblyReference.cache
 G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\obj\Debug\MvcApplication8.dll
 G:\test\CodeFirstSample\CodeFirstSample\CodeFirstSample\MvcApplication8\obj\Debug\MvcApplication8.pdb
+G:\GitHub\MvcApp\bin\MvcApplication8.dll
+G:\GitHub\MvcApp\bin\MvcApplication8.pdb
+G:\GitHub\MvcApp\bin\EntityFramework.dll
+G:\GitHub\MvcApp\bin\EntityFramework.xml
+G:\GitHub\MvcApp\bin\zh-Hans\EntityFramework.resources.dll
+G:\GitHub\MvcApp\obj\Debug\ResolveAssemblyReference.cache
+G:\GitHub\MvcApp\obj\Debug\MvcApplication8.dll
+G:\GitHub\MvcApp\obj\Debug\MvcApplication8.pdb
